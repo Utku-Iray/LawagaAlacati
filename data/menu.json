@@ -1,0 +1,361 @@
+[{
+    "id": "1",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/coffee-espresso.jpg",
+    "product_name": "Espresso",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "2",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/macchiato.jpg",
+    "product_name": "Macchiato",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "3",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_name": "Americano",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "4",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/flat-white.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Flat White",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "5",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/filtre-kahve.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Filter Coffee",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "6",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/latte.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Cafe Latte",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "7",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/latte-caramel.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Caramel Latte",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "8",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Hazelnut Latte",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "9",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Vanilla Latte",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "10",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/cappucino.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Cappuccino",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "11",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/cortado.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Cortado",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "12",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/mocha.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Mocha",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "13",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/chocalate-latte.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "White Chocolate Mocha",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "14",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/turk-kahvesi.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Türk Kahvesi",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "15",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/turk-kahvesi.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Türk Kahvesi (Damla Sakızlı)",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "16",
+    "category_name": "Kahveler",
+    "product_image": "/assets/images/menu/product/turk-kahvesi.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Türk Kahvesi (Dibek)",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "17",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/v60.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "V60",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "18",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/chemex-filter.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "CHEMEX",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "19",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/french-preess.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "French Press",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "20",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/lotus-latte.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Lotus Latte",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "21",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/belgium-mocha.jpeg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Belgium Mocha",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "22",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/chocalate-latte.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Lawaga Chocolate Latte",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "23",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Lawaga Orange Double Espresso",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "24",
+    "category_name": "Lawaga-Special",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Dalmaçyalı Mocha",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "25",
+    "category_name": "Tatlılar",
+    "product_image": "/assets/images/menu/product/limon-cheescake.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Limonlu Cheesecake",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "26",
+    "category_name": "Tatlılar",
+    "product_image": "/assets/images/menu/product/frambuazli-cheesecake.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Frambuazlı Cheesecake",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "27",
+    "category_name": "Tatlılar",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "San Sebastian",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "28",
+    "category_name": "Tatlılar",
+    "product_image": "/assets/images/menu/product/elmali-tart.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Elmalı Tart",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "29",
+    "category_name": "Tatlılar",
+    "product_image": "/assets/images/menu/product/kekler.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Kek Çeşitleri",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "30",
+    "category_name": "Tatlılar",
+    "product_image": "/assets/images/menu/product/baklava.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Baklava",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "31",
+    "category_name": "Kahvaltı",
+    "product_image": "/assets/images/menu/product/kruvasan.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Sade Kruvasan",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "32",
+    "category_name": "Kahvaltı",
+    "product_image": "/assets/images/menu/product/cheese-kruvasan.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Peynirli Kruvasan",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "33",
+    "category_name": "Kahvaltı",
+    "product_image": "/assets/images/menu/product/jambonlu.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Jambonlu Kruvasan",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "34",
+    "category_name": "Kahvaltı",
+    "product_image": "/assets/images/menu/product/cikolata-kruvasan.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Çikolatalı Kruvasan",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "35",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Coca-Cola",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "36",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Coca-Cola Zero",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "37",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Fanta",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "38",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Sprite",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "39",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Fuse Tea",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "40",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Uludağ Premium Soda",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "41",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Redbull",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "42",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Cappy Vişne",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "43",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Cappy Şeftali",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "44",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Limonata",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}, {
+    "id": "45",
+    "category_name": "İçecekler",
+    "product_image": "/assets/images/menu/product/americano.jpg",
+    "product_description": ["urun1", "urun2", "urun3"],
+    "product_name": "Churchill",
+    "product_price": "22 TL",
+    "product_new_price": ""
+}]

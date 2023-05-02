@@ -2,7 +2,7 @@
 <?php include 'php/header.php' ?>
 <main>
     <!-- breadcrumb area start -->
-    <section class="breadcrumb-area pt-140 pb-200 bg_img" data-background="assets/images/menu/menu-banner.png"  data-opacity="5">
+    <section class="breadcrumb-area pt-140 pb-200 bg_img" data-background="assets/images/alacati/menu-banner.jpg"  data-opacity="5">
         <div class="shape shape__1"><img src="assets/images/shape/breadcrumb-shape-1.png" alt=""></div>
         <div class="shape shape__2"><img src="assets/images/shape/breadcrumb-shape-2.png" alt=""></div>
         <!-- <div class="container">

@@ -2,22 +2,22 @@
 <?php include 'php/header.php' ?>
     <main>
         <!-- breadcrumb area start -->
-        <section class="breadcrumb-area pt-140 pb-140 bg_img" data-background="assets/images/bg/1.jpeg" data-overlay="dark" data-opacity="5">
+        <section class="breadcrumb-area pt-140 pb-140 bg_img" data-background="assets/images/alacati/galeri-banner.jpg" data-overlay="dark" data-opacity="5">
             <div class="shape shape__1"><img src="assets/images/shape/breadcrumb-shape-1.png" alt=""></div>
             <div class="shape shape__2"><img src="assets/images/shape/breadcrumb-shape-2.png" alt=""></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 text-center">
-                        <h2 class="page-title">Galeri</h2>
+                        <h2 class="page-title">&nbsp;</h2>
                         <div class="cafena-breadcrumb breadcrumbs">
-                            <ul class="list-unstyled d-flex align-items-center justify-content-center">
+                            <!-- <ul class="list-unstyled d-flex align-items-center justify-content-center">
                                 <li class="cafenabcrumb-item duxinbcrumb-begin">
                                     <a href="index.php"><span>Anasayfa</span></a>
                                 </li>
                                 <li class="cafenabcrumb-item duxinbcrumb-end">
                                     <span>Galeri</span>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -50,37 +50,37 @@
                 <div class="row popular-menu__masonary mt-none-30">
                     <div class="popular-menu__item mt-30 cat1 cat5 cat6">
                         <div class="popular-menu__thumb--2">
-                            <img src="assets/images/gallery/1.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/1.jpg" alt="">
                         </div>
                     </div>
                     <div class="popular-menu__item mt-30">
                         <div class="popular-menu__thumb">
-                            <img src="assets/images/gallery/2.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/2.jpg" alt="">
                         </div>
                     </div>
                     <div class="popular-menu__item long mt-30 cat2 cat4 cat3">
                         <div class="popular-menu__thumb">
-                            <img src="assets/images/gallery/3.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/3.jpg" alt="">
                         </div>
                     </div>
                     <div class="popular-menu__item wide mt-30 cat1 cat6">
                         <div class="popular-menu__thumb">
-                            <img src="assets/images/gallery/4.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/4.jpg" alt="">
                         </div>
                     </div>
                     <div class="popular-menu__item mt-30 cat2 cat3">
                         <div class="popular-menu__thumb">
-                            <img src="assets/images/gallery/5.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/5.jpg" alt="">
                         </div>
                     </div>
                     <div class="popular-menu__item mt-30 cat1 cat5">
                         <div class="popular-menu__thumb">
-                            <img src="assets/images/gallery/6.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/6.jpg" alt="">
                         </div>
                     </div>
                     <div class="popular-menu__item mt-30 cat4 cat3">
                         <div class="popular-menu__thumb">
-                            <img src="assets/images/gallery/7.jpeg" alt="">
+                            <img src="assets/images/alacati/galeri/7.jpg" alt="">
                         </div>
                     </div>
                 </div>

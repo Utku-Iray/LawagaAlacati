@@ -7,12 +7,12 @@
     <!-- hero area start -->
     <section class="hero__area hero__area--2 position-relative custom-padding">
         <span class="shape shape__1 position-absolute"><img src="assets/images/shape/hero-shape-2-1.png" alt=""></span>
-        <span class="shape shape__2 position-absolute"><img src="assets/images/baloon.png" alt=""></span>
+        <!-- <span class="shape shape__2 position-absolute"><img src="assets/images/alacati-1.jpeg" alt=""></span> -->
         <div class="container-fluid custom-width">
             <div class="row mm-reverse">
                 <div class="col-xl-6 col-lg-7 align-self-center">
                     <div class="hero__content hero__content--2 position-relative">
-                        <h2 class="title mb-10"> Nitelikli Kahve ve Ege’ye Özgü Lezzetler, 
+                        <h2 class="title mb-10"> Nitelikli Kahve ve Ege’ye Özgü Lezzetler,
                             Tek Çatı Altında Buluştu
 
                         </h2>
@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-5">
                     <div class="hero__thumb hero__thumb--2 position-relative">
-                        <img src="assets/images/coffe.png" alt="img">
+                        <img src="assets/images/alacati/slider.jpg" alt="img">
                         <a href="//www.youtube.com/embed/EBsrZvv_1OE?rel=0&amp;controls=0&amp;showinfo=0" data-rel="lightcase:myCollection" data-animation="fadeInLeft" class="video-btn video-btn__2 d-flex align-items-center"><i class="fas fa-play"></i><span class="border-effect">VİDEO OYNAT</span></a>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                                     <span class="year">2021</span>
                                     <div class="content mt-20">
                                         <h2 class="title mb-10">Tutkumuzun Başlangıcı</h2>
-                                        <p>Her şey bir yudumla başladı. Gerçek kahve tadı, damağımızdan ruhumuza akarak ‘en iyi’yi bulma fikrini aklımıza düşürdü.  </p>
+                                        <p>Her şey bir yudumla başladı. Gerçek kahve tadı, damağımızdan ruhumuza akarak ‘en iyi’yi bulma fikrini aklımıza düşürdü. </p>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@
             <div class="row">
                 <div class="col-xl-5 col-lg-7">
                     <div class="about__left about__left--2 position-relative">
-                        <img class="big" src="assets/images/ana1.png" alt="img">
+                        <img src="assets/images/alacati/oyku.jpg" alt="img">
                         <!-- <img class="small position-absolute" src="assets/images/ana2.png" alt="img"> -->
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         <div class="section-heading section-heading__black">
                             <span class="sub-title">HİKAYEMİZ</span>
                             <h2 class="title mb-25">Lawaga Alaçatı’nın Öyküsü </h2>
-                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan gerçek kahve çekirdekleri, denizleri ve ormanları aştı, begonvillerin arasından geçerek Ege’nin kalbine ulaştı. Alaçatı’nın ruhuyla bütünleşen Lawaga’nın tadı, değdiği her damakta unutulmaz bir iz bıraktı. Geriye, tarihi taş evlerin ve çeşit çeşit ağaçların tam ortasında, yüzüne ılık bir rüzgar vururken içtiğin o ilk yudumun keyfini çıkarmak kaldı. 
+                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan gerçek kahve çekirdekleri, denizleri ve ormanları aştı, begonvillerin arasından geçerek Ege’nin kalbine ulaştı. Alaçatı’nın ruhuyla bütünleşen Lawaga’nın tadı, değdiği her damakta unutulmaz bir iz bıraktı. Geriye, tarihi taş evlerin ve çeşit çeşit ağaçların tam ortasında, yüzüne ılık bir rüzgar vururken içtiğin o ilk yudumun keyfini çıkarmak kaldı.
                             </p>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                     <div class="about__right about__right--2  pt-45">
                         <div class="section-heading section-heading__black">
                             <!-- <span class="sub-title">about us</span> -->
-                            <h2 class="title mb-25">Zeytin ve Sakız Ağaçlarının Büyülü Kokusu Seni Lawaga’ya Ulaştıracak  </h2>
+                            <h2 class="title mb-25">Zeytin ve Sakız Ağaçlarının Büyülü Kokusu Seni Lawaga’ya Ulaştıracak </h2>
                             <p>Bir yudum kahveyle başlayan Lawaga yolculuğu, zengin kültürü ile büyüleyen Alaçatı’ya kadar uzandı. Zeytin ve sakız ağaçlarının kokusu, Lawaga çekirdeklerinin kokusuna karıştı; esen rüzgarla her bir yana yayıldı. Bu büyülü kokuyu takip eden herkes gerçek kahveye ulaşacak.
                             </p>
                         </div>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="col-xl-5 col-lg-7">
                     <div class="about__left about__left--2 position-relative">
-                        <img src="assets/images/anasayfa-gorsel.png" alt="img">
+                        <img src="assets/images/alacati/hikayemiz-sayfası-alacati.jpg" alt="img">
                         <!-- <img class="small position-absolute" src="assets/images/about/about-img-2-2.png" alt="img"> -->
                     </div>
                 </div>
@@ -271,7 +271,7 @@
                                 </div>
                                 <div class="content mt-80">
                                     <h2 class="title">Double Dragon</h2>
-                                    <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p>
+                                    <!-- <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p> -->
                                 </div>
                             </div>
                         </div>
@@ -283,7 +283,7 @@
                                 </div>
                                 <div class="content mt-80">
                                     <h2 class="title">Silverback</h2>
-                                    <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p>
+                                    <!-- <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p> -->
                                 </div>
                             </div>
                         </div>
@@ -295,7 +295,7 @@
                                 </div>
                                 <div class="content mt-80">
                                     <h2 class="title">Velvety</h2>
-                                    <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p>
+                                    <!-- <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p> -->
                                 </div>
                             </div>
                         </div>
@@ -307,7 +307,7 @@
                                 </div>
                                 <div class="content mt-80">
                                     <h2 class="title">Night Owls</h2>
-                                    <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p>
+                                    <!-- <p>Curabitur semper erat a lacusey<br> consequat, sit amet quam </p> -->
                                 </div>
                             </div>
                         </div>
@@ -340,60 +340,29 @@
                 </div>
             </div>
             <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <article class="blog__item blog__item--2">
-                        <div class="thumb position-relative">
-                            <div class="img">
-                                <img src="assets/images/blog//filtre-kahve-demleme-teknikleri.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="content content__2">
+                <?php for ($i=0; $i < 3 ; $i++) {  ?>
+                   <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
+                   <article class="blog__item blog__item--2">
+                       <div class="thumb position-relative">
+                           <div class="img">
+                               <img src="<?= $blog_JSON[$i] -> blog_image ?>" alt="">
+                           </div>
+                       </div>
+                       <div class="content content__2">
 
-                            <h3 class="blog__title blog__title--2 border-effect">
-                                <a href="blog-details.php">FİLTRE KAHVE DEMLEME TEKNİKLERİ</a>
-                            </h3>
-                            <div class="btn-wrapper mt-15 d-flex justify-content-between">
-                                <a href="blog-details.php" class="read-more read-more__2">Daha Fazlası <i class="fa fa-long-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <article class="blog__item blog__item--2">
-                        <div class="thumb position-relative">
-                            <div class="img">
-                                <img src="assets/images/blog/filtre-kahve-sertlik-siralamasi.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="content content__2">
+                           <h3 class="blog__title blog__title--2 border-effect">
+                               <a href="blog-details.php?name=<?= $blog_JSON[$i] -> blog_title ?>"><?= $blog_JSON[$i] -> blog_title ?></a>
+                           </h3>
+                           <div class="btn-wrapper mt-15 d-flex justify-content-between">
+                               <a href="blog-details.php?name=<?= $blog_JSON[$i] -> blog_title ?>" class="read-more read-more__2">Daha Fazlası <i class="fa fa-long-arrow-right"></i></a>
+                           </div>
+                       </div>
+                   </article>
+               </div>
+               <?php } ?>
+                
 
-                            <h3 class="blog__title blog__title--2 border-effect">
-                                <a href="blog-details.php">FİLTRE KAHVE SERTLİK SIRALAMASI</a>
-                            </h3>
-                            <div class="btn-wrapper mt-15 d-flex justify-content-between">
-                                <a href="blog-details.php" class="read-more read-more__2">Daha Fazlası <i class="fa fa-long-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <article class="blog__item blog__item--2">
-                        <div class="thumb position-relative">
-                            <div class="img">
-                                <img src="assets/images/blog/kahve-cekirdekleri-kavurma-yontemleri.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="content content__2">
 
-                            <h3 class="blog__title blog__title--2 border-effect">
-                                <a href="blog-details.php">KAHVE ÇEKİRDEKLERİ KAVURMA YÖNTEMLERİ NELERDİR?</a>
-                            </h3>
-                            <div class="btn-wrapper mt-15 d-flex justify-content-between">
-                                <a href="blog-details.php" class="read-more read-more__2">Daha Fazlası <i class="fa fa-long-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
             </div>
         </div>
     </div>

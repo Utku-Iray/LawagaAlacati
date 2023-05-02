@@ -2086,7 +2086,7 @@ h6 {
 }
 
 [data-overlay=dark]::before {
-    background-color: #000;
+    /* background-color: #000; */
 }
 
 
@@ -2890,6 +2890,7 @@ h6 {
 }
 
 .video-btn__2 i {
+    background-color: antiquewhite;
     width: 70px;
     height: 70px;
     color: #776c62;
@@ -3576,7 +3577,8 @@ h6 {
 
 .hero__area--2 .shape__2 {
     right: 0;
-    top: -100px;
+    top: 0px;
+    opacity: 0.5;
 }
 
 .hero__area--3 {
@@ -3825,7 +3827,7 @@ h6 {
 }
 
 .hero__thumb {
-    padding-top: 2px;
+    padding-top: 80px;
     z-index: 2;
     position: relative;
     -webkit-transform: translate(-30px, -25px);
@@ -7058,7 +7060,7 @@ h6 {
 
 .blog__post .content .title {
     font-size: 35px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 @media (max-width: 500px) {
@@ -9375,6 +9377,10 @@ html .ui-button.ui-state-disabled:active {
     .phone-button-display {
         display: block !important;
     }
+}
+
+.content strong {
+    font-size: large
 }
 
 

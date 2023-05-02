@@ -3,22 +3,22 @@
 
 <main>
     <!-- breadcrumb area start -->
-    <section class="breadcrumb-area pt-140 pb-140 bg_img" data-background="assets/images/bg/1.jpeg" data-overlay="dark" data-opacity="5">
+    <section class="breadcrumb-area pt-140 pb-140 bg_img" data-background="assets/images/alacati/toptan-banner.jpg" data-overlay="dark" data-opacity="5">
         <div class="shape shape__1"><img src="assets/images/shape/breadcrumb-shape-1.png" alt=""></div>
         <div class="shape shape__2"><img src="assets/images/shape/breadcrumb-shape-2.png" alt=""></div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 text-center">
-                    <h2 class="page-title">Toptan Satış</h2>
+                    <h2 class="page-title">&nbsp;</h2>
                     <div class="cafena-breadcrumb breadcrumbs">
-                        <ul class="list-unstyled d-flex align-items-center justify-content-center">
+                        <!-- <ul class="list-unstyled d-flex align-items-center justify-content-center">
                             <li class="cafenabcrumb-item duxinbcrumb-begin">
                                 <a href="index.php"><span>Anasayfa</span></a>
                             </li>
                             <li class="cafenabcrumb-item duxinbcrumb-end">
                                 <span>Toptan Satış</span>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>

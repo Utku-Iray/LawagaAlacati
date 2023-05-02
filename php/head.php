@@ -6,11 +6,12 @@
     <!--========= Required meta tags =========-->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="">
+    <meta name="description" content="Lawaga Alaçatı, Lawaga">
+    <meta name="keywords" content="Lawaga Alaçatı, Lawaga, Alaçatı, Kahve">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>Lawaga Coffe | Kapadokya</title>
+    <title>Lawaga Coffe | Alaçatı</title>
 
     <!--====== Favicon ======-->
     <link rel="shortcut icon" href="assets/images/logo/favicon.png" type="images/x-icon" />

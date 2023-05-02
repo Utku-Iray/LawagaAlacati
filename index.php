@@ -12,11 +12,11 @@
             <div class="row mm-reverse">
                 <div class="col-xl-6 col-lg-7 align-self-center">
                     <div class="hero__content hero__content--2 position-relative">
-                        <h2 class="title mb-10"> Ruha Dokunan Tat
-                            <br>
-                            Büyüleyici Bir Coğrafya ile Buluştu!
+                        <h2 class="title mb-10"> Nitelikli Kahve ve Ege’ye Özgü Lezzetler, 
+                            Tek Çatı Altında Buluştu
+
                         </h2>
-                        <p>Lawaga’nın Uganda’daki Elgon Yanardağı’nın eteklerinde başlayan yolculuğu, dağları ve vadileri aştı; peri masallarının diyarı Kapadokya’ya kadar ulaştı. </p>
+                        <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan kahve çekirdeklerinin kokusu, meyve ağaçlarının kokusuyla harmanlandı; Ege’nin kalbine yayıldı. </p>
                         <div class="btns mt-45 d-flex align-items-center justify-content-start">
                             <!-- <a href="about.php" class="site-btn site-btn__2">testy Coffee</a> -->
                             <a href="about.php" class="site-btn">Hikayemiz</a>
@@ -46,7 +46,7 @@
                                     <span class="year">2021</span>
                                     <div class="content mt-20">
                                         <h2 class="title mb-10">Tutkumuzun Başlangıcı</h2>
-                                        <p>Her şey bir yudumla başladı. Gerçek kahve tadı, damağımızdan ruhumuza akarak ‘en iyi’yi bulma fikrini aklımıza düşürdü. </p>
+                                        <p>Her şey bir yudumla başladı. Gerçek kahve tadı, damağımızdan ruhumuza akarak ‘en iyi’yi bulma fikrini aklımıza düşürdü.  </p>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 col-lg-7">
-                    <div class="about__left about__left--2 position-relative" >
+                    <div class="about__left about__left--2 position-relative">
                         <img class="big" src="assets/images/ana1.png" alt="img">
                         <!-- <img class="small position-absolute" src="assets/images/ana2.png" alt="img"> -->
                     </div>
@@ -101,10 +101,8 @@
                     <div class="about__right about__right--2 pl-45 pt-45">
                         <div class="section-heading section-heading__black">
                             <span class="sub-title">HİKAYEMİZ</span>
-                            <h2 class="title mb-25">Lawaga Kapadokya’nın Öyküsü </h2>
-                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinde başlayan bu yolculuğun hikayesi; akarsuları, dağları ve vadileri aşarak büyülü bir coğrafyada seninle buluştu.
-                                <br><br> Özenle toplanan kahve çekirdekleri, doğal yöntemlerle işlenerek bir kupaya dolduruldu. Kupadaki Lawaga’nın kokusu peri bacalarını sararken; sana, doğaüstü manzaraya karşı bu unutulmaz deneyimi yaşamak kaldı.
-
+                            <h2 class="title mb-25">Lawaga Alaçatı’nın Öyküsü </h2>
+                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan gerçek kahve çekirdekleri, denizleri ve ormanları aştı, begonvillerin arasından geçerek Ege’nin kalbine ulaştı. Alaçatı’nın ruhuyla bütünleşen Lawaga’nın tadı, değdiği her damakta unutulmaz bir iz bıraktı. Geriye, tarihi taş evlerin ve çeşit çeşit ağaçların tam ortasında, yüzüne ılık bir rüzgar vururken içtiğin o ilk yudumun keyfini çıkarmak kaldı. 
                             </p>
                         </div>
                     </div>
@@ -122,17 +120,15 @@
                     <div class="about__right about__right--2  pt-45">
                         <div class="section-heading section-heading__black">
                             <!-- <span class="sub-title">about us</span> -->
-                            <h2 class="title mb-25">Lawaga’nın Kokusu Rehberliğinde Kapadokya’yı Keşfetmeye Hazır Mısın? </h2>
-                            <p>Her şeyin bir kokusu vardır. Mesela keşfedilmeyi bekleyen milyonlarca anın kapısını aralayan o seyahatin kokusu… Yolda olmayı seven herkes tanır o kokuyu. Bazen yol boyunca yanında durur, bazen rehberin olur.
-                                <br><br> Yeni bir kültür keşfetmenin ve büyüleyici yerler görmenin heyecanıyla çıktığın yolda, Lawaga kahve çekirdeklerinin kokusu sana rehberlik edecek. Peri bacalarına karşı içtiğin o ilk yudum ruhuna akarken, damağında unutulmaz bir tat bırakacak.
-
+                            <h2 class="title mb-25">Zeytin ve Sakız Ağaçlarının Büyülü Kokusu Seni Lawaga’ya Ulaştıracak  </h2>
+                            <p>Bir yudum kahveyle başlayan Lawaga yolculuğu, zengin kültürü ile büyüleyen Alaçatı’ya kadar uzandı. Zeytin ve sakız ağaçlarının kokusu, Lawaga çekirdeklerinin kokusuna karıştı; esen rüzgarla her bir yana yayıldı. Bu büyülü kokuyu takip eden herkes gerçek kahveye ulaşacak.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-7">
                     <div class="about__left about__left--2 position-relative">
-                        <img  src="assets/images/anasayfa-gorsel.png" alt="img">
+                        <img src="assets/images/anasayfa-gorsel.png" alt="img">
                         <!-- <img class="small position-absolute" src="assets/images/about/about-img-2-2.png" alt="img"> -->
                     </div>
                 </div>
@@ -259,7 +255,7 @@
     <div class="feature__area grey-bg" style="padding-bottom:50px">
         <div class="container">
             <div class="row">
-            <div class="col-xl-12 text-center">
+                <div class="col-xl-12 text-center">
                     <div class="section-heading section-heading__black mb-55">
                         <span class="sub-title">Popüler</span>
                         <h2 class="title">Ürünlerimiz</h2>
@@ -315,7 +311,7 @@
                                 </div>
                             </div>
                         </div>
-                      
+
                     </div>
                 </div>
             </div>

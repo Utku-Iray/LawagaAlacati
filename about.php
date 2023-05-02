@@ -42,11 +42,8 @@
                     <div class="about__right about__right--2 pl-45 pt-45">
                         <div class="section-heading section-heading__black">
                             <span class="sub-title">HİKAYEMİZ</span>
-                            <h2 class="title mb-25">Lawaga Kapadokya’nın Öyküsü </h2>
-                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinde başlayan bu yolculuğun hikayesi; akarsuları, dağları ve vadileri aşarak büyülü bir coğrafyada seninle buluştu.
-                                <br><br> Özenle toplanan kahve çekirdekleri, doğal yöntemlerle işlenerek bir kupaya dolduruldu. Kupadaki Lawaga’nın kokusu peri bacalarını sararken; sana, doğaüstü manzaraya karşı bu unutulmaz deneyimi yaşamak kaldı.
-
-                            </p>
+                            <h2 class="title mb-25">Lawaga Alaçatı’nın Öyküsü </h2>
+                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan gerçek kahve çekirdekleri, denizleri ve ormanları aştı, begonvillerin arasından geçerek Ege’nin kalbine ulaştı. Alaçatı’nın ruhuyla bütünleşen Lawaga’nın tadı, değdiği her damakta unutulmaz bir iz bıraktı. Geriye, tarihi taş evlerin ve çeşit çeşit ağaçların tam ortasında, yüzüne ılık bir rüzgar vururken içtiğin o ilk yudumun keyfini çıkarmak kaldı.                             </p>
                         </div>
                     </div>
                 </div>
@@ -91,10 +88,8 @@
                 <div class="col-xl-8 pl-35">
                     <div class="best-coffe__wrapper">
                         <div class="section-heading section-heading__black">
-                            <h2 class="title mb-25">Lawaga Kapadokya’nın Öyküsü</h2>
-                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinde başlayan bu yolculuğun hikayesi; akarsuları, dağları ve vadileri aşarak büyülü bir coğrafyada seninle buluştu.
-                              <br><br>  Özenle toplanan kahve çekirdekleri, doğal yöntemlerle işlenerek bir kupaya dolduruldu. Kupadaki Lawaga’nın kokusu peri bacalarını sararken; sana, doğaüstü manzaraya karşı bu unutulmaz deneyimi yaşamak kaldı.
-                            </p>
+                            <h2 class="title mb-25">Lawaga Alaçatı’nın Öyküsü </h2>
+                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan gerçek kahve çekirdekleri, denizleri ve ormanları aştı, begonvillerin arasından geçerek Ege’nin kalbine ulaştı. Alaçatı’nın ruhuyla bütünleşen Lawaga’nın tadı, değdiği her damakta unutulmaz bir iz bıraktı. Geriye, tarihi taş evlerin ve çeşit çeşit ağaçların tam ortasında, yüzüne ılık bir rüzgar vururken içtiğin o ilk yudumun keyfini çıkarmak kaldı.  </p>
                         </div>
                     </div>
                 </div>

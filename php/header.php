@@ -6,6 +6,10 @@ $menu_JSON = json_decode($JSON);
 $URL = 'data/categories.json';
 $JSON = file_get_contents($URL);
 $category_JSON = json_decode($JSON);
+
+$URL = 'data/blog.json';
+$JSON = file_get_contents($URL);
+$blog_JSON = json_decode($JSON);
 ?>
 
 <body>
@@ -18,7 +22,7 @@ $category_JSON = json_decode($JSON);
         <div id="ctn-preloader" class="ctn-preloader">
             <div class="animation-preloader" style="text-align:center">
                 <div class="spinner"></div>
-                <img width="200px" src="assets/images/logo/lawaga-kapadokya.png" alt="">
+                <img width="200px" src="assets/images/logo/mavi-alacati.png" alt="">
                 <div class="txt-loading">
                     <span data-text-preloader="L" class="letters-loading">
                         L
@@ -100,7 +104,7 @@ $category_JSON = json_decode($JSON);
                     <div class="col-xl-2 col-lg-2 d-none d-lg-block text-center align-self-center">
                         <div class="logo">
                             <a href="index.php">
-                                <img src="assets/images/logo/lawaga-kapadokya.png" alt="img">
+                                <img src="assets/images/logo/mavi-alacati.png" alt="img">
                             </a>
                         </div>
                     </div>
@@ -173,7 +177,7 @@ $category_JSON = json_decode($JSON);
                         <div class="wrapper-for-lg d-flex align-items-center">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="assets/images/logo/lawaga-kapadokya.png" alt="img">
+                                    <img src="assets/images/logo/mavi-alacati.png" alt="img">
                                 </a>
                             </div>
                             <div class="main-menu main-menu__3 main-menu__4">
@@ -234,7 +238,7 @@ $category_JSON = json_decode($JSON);
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
                 <a href="index.php">
-                    <!-- <img src="assets/images/logo/lawaga-kapadokya.png" alt="Lawaga"> -->
+                    <!-- <img src="assets/images/logo/mavi-alacati.png" alt="Lawaga"> -->
                 </a>
             </div>
             <div class="side-info__close">
@@ -284,7 +288,7 @@ $category_JSON = json_decode($JSON);
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
                 <a href="index.php">
-                    <!-- <img src="assets/images/logo/lawaga-kapadokya.png" alt="logo"> -->
+                    <!-- <img src="assets/images/logo/mavi-alacati.png" alt="logo"> -->
                 </a>
             </div>
             <div class="side-info__close">

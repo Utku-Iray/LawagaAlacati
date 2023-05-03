@@ -26,7 +26,7 @@
                 <div class="col-xl-6 col-lg-5">
                     <div class="hero__thumb hero__thumb--2 position-relative">
                         <img src="assets/images/alacati/slider.jpg" alt="img">
-                        <a href="//www.youtube.com/embed/EBsrZvv_1OE?rel=0&amp;controls=0&amp;showinfo=0" data-rel="lightcase:myCollection" data-animation="fadeInLeft" class="video-btn video-btn__2 d-flex align-items-center"><i class="fas fa-play"></i><span class="border-effect">VİDEO OYNAT</span></a>
+                        <!-- <a href="//www.youtube.com/embed/EBsrZvv_1OE?rel=0&amp;controls=0&amp;showinfo=0" data-rel="lightcase:myCollection" data-animation="fadeInLeft" class="video-btn video-btn__2 d-flex align-items-center"><i class="fas fa-play"></i><span class="border-effect">VİDEO OYNAT</span></a> -->
                     </div>
                 </div>
             </div>

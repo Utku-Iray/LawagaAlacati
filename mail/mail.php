@@ -18,7 +18,7 @@ function mailgonder(){
          $mail->IsSMTP();
          $mail->From     = "utah@alondanbilisim.com"; //Gönderen kısmında yer alacak e-mail adresi  
          $mail->Sender   = "utah@alondanbilisim.com";  
-         $mail->FromName = "Lawaga Cappadocia Mail";  
+         $mail->FromName = "Lawaga Alaçatı Mail";  
          $mail->Host     = "srvc55.turhost.com"; //SMTP server adresi  
          $mail->SMTPAuth = true;  
          $mail->Username = "utah@alondanbilisim.com"; //SMTP kullanıcı adı  
@@ -27,12 +27,12 @@ function mailgonder(){
          $mail->Port = "587";
          $mail->CharSet = "utf-8";
          $mail->IsHTML(true); //Mailin HTML formatında hazırlanacağını bildiriyoruz.  
-         $mail->Subject  ="Lawaga Cappadocia Form";
+         $mail->Subject  ="Lawaga Alaçatı Form";
 
     $mail->Body ="Adı Soyadı: ". $_POST['patientnamesurname'] . "<br>Konu: " . $_POST['patientSubject']. "<br>Telefon Numarası: " . $_POST['patientPhone'] . "<br>Not: ". $_POST['patientNote'] . "<br>Hangi sayfadan geldi: " . $_POST['sayfa']. "<br>Mail adresi: " . $_POST['mail'];
          
     $mail->AltBody = strip_tags("mesaj");
-    $mail->AddAddress("coffe@lawagacappadocia.com");
+    $mail->AddAddress("coffe@lawagaalacati.com");
     return ($mail->Send())?true:false;
     $mail->ClearAddresses();
     $mail->ClearAttachments();
@@ -48,6 +48,6 @@ if(mailgonder()) {
    ?>
 <script>
   setTimeout(function(){
-  window.location = "https://www.lawagacappadocia.com/";
+  window.location = "https://www.lawagaalacati.com/";
 }, 1000);
 </script>

@@ -10,7 +10,7 @@
                         <div class="item d-flex align-items-center justify-content-center">
                             <img src="assets/images/icons/ft-phone.png" alt="">
                             <span>Telefon:</span>
-                            <a href="tel:+905323926406">+90 532 392 64 06</a>
+                            <a href="tel:+905323926406">+90 533 050 4750</a>
                         </div>
                     </div>
                 </div>
@@ -19,7 +19,7 @@
                         <div class="item d-flex align-items-center justify-content-start">
                             <img src="assets/images/icons/ft-map-marker.png" alt="">
                             <span>Adres:</span>
-                            <p>Temenni Mh. Tevfik Fikret Cd. Veli Tören Sitesi, 13/1, Ürgüp, NEVŞEHİR</p>
+                            <p>Alaçatı Mh. 11044 Sokak, No: 2/B, 35930, Çeşme/İzmir</p>
                         </div>
                     </div>
                 </div>
@@ -47,9 +47,9 @@
                 </div>
                 <div class="col-lg-5 align-self-end">
                     <div class="social-links d-flex align-items-center justify-content-lg-end">
-                        <a href="https://www.facebook.com/lawagacappadocia" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.youtube.com/channel/UC87stkf-n8G4O7YO0Ha8Gkg" target="_blank"><i class="fab fa-youtube"></i></a>
-                        <a href="https://www.instagram.com/lawagacappadocia/" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/lawagaalacati" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <!-- <a href="https://www.youtube.com/channel/UC87stkf-n8G4O7YO0Ha8Gkg" target="_blank"><i class="fab fa-youtube"></i></a> -->
+                        <a href="https://www.instagram.com/lawagaalacati" target="_blank"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                             <ul>
                                 <li><a href="index.php">ANASAYFA</a></li>
                                 <li><a href="about.php">HİKAYEMİZ</a></li>
-                                <li><a href="menu.php">MENU</a></li>
+                                <li><a href="assets/images/menu/alacati-menu.pdf">MENU</a></li>
                                 <li><a href="blog.php">BLOG</a></li>
                                 <li><a href="gallery.php">GALERİ</a></li>
                                 <li><a href="contact.php">İLETİŞİM</a></li>

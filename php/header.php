@@ -86,7 +86,7 @@ $blog_JSON = json_decode($JSON);
                                         <i class="fa fa-book"></i><a href="about.php">HİKAYEMİZ</a>
                                     </li>
                                     <li>
-                                        <i class="fa fa-glass"></i><a href="menu.php">MENÜ</a>
+                                        <i class="fa fa-glass"></i><a href="assets/images/menu/alacati-menu.pdf">MENÜ</a>
                                     </li>
 
 
@@ -253,7 +253,7 @@ $blog_JSON = json_decode($JSON);
                 <div class="side-info">
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-5">HİKAYEMİZ</h4>
-                        <p>Lawaga’nın Uganda’daki Elgon Yanardağı’nın eteklerinde başlayan yolculuğu, dağları ve vadileri aştı; peri masallarının diyarı Kapadokya’ya kadar ulaştı.</p>
+                        <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan kahve çekirdeklerinin kokusu, meyve ağaçlarının kokusuyla harmanlandı; Ege’nin kalbine yayıldı.</p>
                         <a class="site-btn mt-20" href="contact.php">İLETİŞİM</a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
@@ -261,22 +261,22 @@ $blog_JSON = json_decode($JSON);
                         <ul class="contact__info list-unstyled">
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>Temenni Mh. Tevfik Fikret Cd. Veli Tören Sitesi, 13/1, Ürgüp, NEVŞEHİR</p>
+                                <p>Alaçatı Mh. 11044 Sokak, No: 2/B, 35930, Çeşme/İzmir</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone"></i></span>
-                                <p>+90 532 392 64 06</p>
+                                <p>+90 533 050 4750</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-envelope-open-text"></i></span>
-                                <p>coffee@lawagacappadocia.com</p>
+                                <p>coffee@lawagaalacati.com</p>
                             </li>
                         </ul>
                     </div>
                     <div class="social-links mt-20 d-flex justify-content-start align-items-center">
-                        <a href="https://www.facebook.com/lawagacappadocia"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/lawagaalacati"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://www.youtube.com/channel/UC87stkf-n8G4O7YO0Ha8Gkg"><i class="fab fa-youtube"></i></a>
-                        <a href="https://www.instagram.com/lawagacappadocia/"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/lawagaalacati"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -298,7 +298,7 @@ $blog_JSON = json_decode($JSON);
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-5">HİKAYEMİZ</h4>
-                <p>Lawaga’nın Uganda’daki Elgon Yanardağı’nın eteklerinde başlayan yolculuğu, dağları ve vadileri aştı; peri masallarının diyarı Kapadokya’ya kadar ulaştı.</p>
+                <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan kahve çekirdeklerinin kokusu, meyve ağaçlarının kokusuyla harmanlandı; Ege’nin kalbine yayıldı.</p>
                 <a class="site-btn mt-20" href="contact.php">İLETİŞİM</a>
             </div>
             <div class="contact__info--wrapper mt-15">
@@ -306,22 +306,22 @@ $blog_JSON = json_decode($JSON);
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>Temenni Mh. Tevfik Fikret Cd. Veli Tören Sitesi, 13/1, Ürgüp, NEVŞEHİR</p>
+                        <p>Alaçatı Mh. 11044 Sokak, No: 2/B, 35930, Çeşme/İzmir</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
-                        <p>+90 532 392 64 06</p>
+                        <p>+90 533 050 4750</p>
                     </li>
                     <li>
                         <span><i class="fas fa-envelope-open-text"></i></span>
-                        <p>coffee@lawagacappadocia.com</p>
+                        <p>coffee@lawagaalacati.com</p>
                     </li>
                 </ul>
             </div>
             <div class="social-links mt-20 d-flex justify-content-start align-items-center">
-                <a href="https://www.facebook.com/lawagacappadocia"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.facebook.com/lawagaalacati"><i class="fab fa-facebook-f"></i></a>
                 <a href="https://www.youtube.com/channel/UC87stkf-n8G4O7YO0Ha8Gkg"><i class="fab fa-youtube"></i></a>
-                <a href="https://www.instagram.com/lawagacappadocia/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/lawagaalacati"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </aside>

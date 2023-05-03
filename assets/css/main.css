@@ -250,7 +250,7 @@ span {
 }
 
 .grey-bg {
-    background: #F4F1EE;
+    background: #f2f6ff;
 }
 
 .white {
@@ -274,7 +274,7 @@ span {
 
 .section-heading .sub-title {
     color: #ffffff;
-    background: #C7A17A;
+    background: #002c3f;
     font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
     display: inline-block;
     font-size: 12px;
@@ -2714,14 +2714,14 @@ h6 {
     font-size: 14px;
     color: #ffffff;
     letter-spacing: 2px;
-    background: #C7A17A;
+    background: #082e3f;
     padding: 9.5px 34px;
     text-decoration: none;
     border-radius: 5px;
     position: relative;
     z-index: 1;
     display: inline-block;
-    border: 1px solid #C7A17A;
+    border: 1px solid;
     font-weight: 500;
 }
 

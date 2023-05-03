@@ -42,8 +42,8 @@
                                     </div>
                                     <div class="content">
                                         <h3 class="title">İletişim</h3>
-                                        <a href="mailto:coffee@lawagacappadocia.com">coffee@lawagacappadocia.com</a>
-                                        <a href="tel:+905323926406">+90 532 392 64 06</a>
+                                        <a href="mailto:coffee@lawagaalacati.com">coffee@lawagaalacati.com</a>
+                                        <a href="tel:+905323926406">+90 533 050 4750</a>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@
                                     </div>
                                     <div class="content">
                                         <h3 class="title">Lokasyon</h3>
-                                        <p>Temenni Mh. Tevfik Fikret Cd. Veli Tören Sitesi, 13/1, Ürgüp, NEVŞEHİR</p>
+                                        <p>Alaçatı Mh. 11044 Sokak, No: 2/B, 35930, Çeşme/İzmir</p>
                                     </div>
                                 </div>
                             </div>
@@ -66,9 +66,9 @@
                                     <div class="content">
                                         <h3 class="title">Sosyal Medya</h3>
                                         <div class="social-links d-flex align-items-center justify-content-lg-end">
-                                            <a href="https://www.facebook.com/lawagacappadocia" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                            <a href="https://www.youtube.com/channel/UC87stkf-n8G4O7YO0Ha8Gkg" target="_blank"><i class="fab fa-youtube"></i></a>
-                                            <a href="https://www.instagram.com/lawagacappadocia/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                            <a href="https://www.facebook.com/lawagaalacati" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                            <!-- <a href="https://www.youtube.com/channel/UC87stkf-n8G4O7YO0Ha8Gkg" target="_blank"><i class="fab fa-youtube"></i></a> -->
+                                            <a href="https://www.instagram.com/lawagaalacati" target="_blank"><i class="fab fa-instagram"></i></a>
                                         </div>
                                     </div>
                                 </div>

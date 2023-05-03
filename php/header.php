@@ -186,7 +186,7 @@ $blog_JSON = json_decode($JSON);
                                         <li><a href="index.php">ANASAYFA</a></li>
 
                                         <li><a href="about.php">HİKAYEMİZ</a></li>
-                                        <li><a href="menu.php">MENÜ</a></li>
+                                        <li><a href="assets/images/menu/alacati-menu.pdf">MENÜ</a></li>
                                         <li><a href="blog.php">BLOG</a></li>
                                         <li><a href="gallery.php">GALERİ</a></li>
 

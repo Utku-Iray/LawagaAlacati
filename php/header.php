@@ -93,7 +93,7 @@ $blog_JSON = json_decode($JSON);
                                     <li class="menu-item-has-children"><i class="fa fa-tag"></i><a href="#0">ÖZEL HİZMETLER</a>
                                         <ul class="sub-menu">
                                             <li><a href="toptan-satis.php">Toptan Satış</a></li>
-                                            <li><a href="lawaga-truck.php">Lawaga Truck</a></li>
+                                            <!-- <li><a href="lawaga-truck.php">Lawaga Truck</a></li> -->
                                             <li><a href="workshop.php">Workshop</a></li>
                                         </ul>
                                     </li>

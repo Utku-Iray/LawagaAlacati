@@ -88,8 +88,8 @@
                 <div class="col-xl-8 pl-35">
                     <div class="best-coffe__wrapper">
                         <div class="section-heading section-heading__black">
-                            <h2 class="title mb-25">Lawaga Alaçatı’nın Öyküsü </h2>
-                            <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan gerçek kahve çekirdekleri, denizleri ve ormanları aştı, begonvillerin arasından geçerek Ege’nin kalbine ulaştı. Alaçatı’nın ruhuyla bütünleşen Lawaga’nın tadı, değdiği her damakta unutulmaz bir iz bıraktı. Geriye, tarihi taş evlerin ve çeşit çeşit ağaçların tam ortasında, yüzüne ılık bir rüzgar vururken içtiğin o ilk yudumun keyfini çıkarmak kaldı.  </p>
+                            <h2 class="title mb-25">Alaçatı Ruhunu Lawaga ile Hisset  </h2>
+                            <p>Lawaga’nın benzersiz kahve çekirdeklerini topladık; yeşiliyle, mavisiyle, renk renk çiçekleriyle ruhu doyuran Alaçatı’ya taşıdık. Baharın binbir çeşit kokusuyla çevrelenmiş Alaçatı’da, muhteşem bir deneyim yaşaman için her bir çekirdeği özenle işledik. Arnavut kaldırımlı sokaklarda attığın her adımda o ruhu hisset diye, tutkumuzu kupalara doldurduk. Gerçek kahvenin kalitesiyle tutkumuz birleşince ortaya Lawaga’nın damakta bıraktığı o unutulmaz tat çıktı.</p>
                         </div>
                     </div>
                 </div>

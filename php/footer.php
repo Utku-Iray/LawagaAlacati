@@ -1,4 +1,4 @@
-<footer class="site-footer dark-bg pt-125 position-relative">
+<footer class="site-footer  pt-125 position-relative" style="background-color: #0a2e3f;">
     <div class="footer__top">
         <a href="#" class="go-top go-top__white position-absolute d-flex align-items-center justify-content-center">
             <i class="fal fa-long-arrow-up"></i>

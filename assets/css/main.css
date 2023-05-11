@@ -274,7 +274,7 @@ span {
 
 .section-heading .sub-title {
     color: #ffffff;
-    background: #002c3f;
+    background: #3484b5;
     font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
     display: inline-block;
     font-size: 12px;
@@ -2682,10 +2682,10 @@ h6 {
     height: 40px;
     border-radius: 4px;
     font-size: 24px;
-    border: 1px solid #808080;
+    border: 1px solid #ffffff;
     text-align: center;
     line-height: 27px;
-    color: #808080;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -2714,7 +2714,7 @@ h6 {
     font-size: 14px;
     color: #ffffff;
     letter-spacing: 2px;
-    background: #082e3f;
+    background: #3181b4;
     padding: 9.5px 34px;
     text-decoration: none;
     border-radius: 5px;

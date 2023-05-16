@@ -73,17 +73,17 @@ $blog_JSON = json_decode($JSON);
                         <div class="main-menu main-menu__3 main-menu__4">
                             <nav>
                                 <ul>
-                                    <!-- <li class="menu-item-has-children"><a href="index.php">Home</a>
+                                    <!-- <li class="menu-item-has-children"><a href="/">Home</a>
                                         <ul class="sub-menu">
-                                            <li><a href="index.php">Home 01</a></li>
+                                            <li><a href="/">Home 01</a></li>
                                             <li><a href="home-2.html">Home 02</a></li>
                                             <li><a href="home-3.html">Home 03</a></li>
                                         </ul>
                                     </li> -->
-                                    <!-- <li><a href="index.php">ANASAYFA</a></li> -->
+                                    <!-- <li><a href="/">ANASAYFA</a></li> -->
 
                                     <li>
-                                        <i class="fa fa-book"></i><a href="about.php">HİKAYEMİZ</a>
+                                        <i class="fa fa-book"></i><a href="hakkimizda.php">HİKAYEMİZ</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-glass"></i><a href="assets/images/menu/alacati-menu.pdf">MENÜ</a>
@@ -103,7 +103,7 @@ $blog_JSON = json_decode($JSON);
                     </div>
                     <div class="col-xl-2 col-lg-2 d-none d-lg-block text-center align-self-center">
                         <div class="logo">
-                            <a href="index.php">
+                            <a href="/">
                                 <img src="assets/images/logo/mavi-alacati.png" alt="img">
                             </a>
                         </div>
@@ -116,7 +116,7 @@ $blog_JSON = json_decode($JSON);
                                         <!-- <li><a href="#0">pages</a>
                                             <ul class="sub-menu">
                                                 <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="blog-details.php">Blog Details</a></li>
+                                                <li><a href="blog-detaylari.php">Blog Details</a></li>
                                                 <li><a href="chefs.html">Chefs</a></li>
                                                 <li><a href="faq.html">Faq</a></li>
                                                 <li><a href="story.html">Story</a></li>
@@ -138,12 +138,12 @@ $blog_JSON = json_decode($JSON);
                                         <li class="menu-item-has-children">
                                             <i class="fa fa-camera"></i><a href="#0">GALERİ</a>
                                             <ul class="sub-menu">
-                                                <li><a href="gallery.php">Fotoğraflar</a></li>
+                                                <li><a href="galeri.php">Fotoğraflar</a></li>
                                                 <li><a href="video.php">Vİdeolar</a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <i class="fa fa-paper-plane"></i><a href="contact.php">İLETİŞİM</a>
+                                            <i class="fa fa-paper-plane"></i><a href="iletisim.php">İLETİŞİM</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -176,22 +176,22 @@ $blog_JSON = json_decode($JSON);
                     <div class="col-xl-9 col-lg-10 col-6">
                         <div class="wrapper-for-lg d-flex align-items-center">
                             <div class="logo">
-                                <a href="index.php">
+                                <a href="/">
                                     <img src="assets/images/logo/mavi-alacati.png" alt="img">
                                 </a>
                             </div>
                             <div class="main-menu main-menu__3 main-menu__4">
                                 <nav id="mobile-menu">
                                     <ul>
-                                        <li><a href="index.php">ANASAYFA</a></li>
+                                        <li><a href="/">ANASAYFA</a></li>
 
-                                        <li><a href="about.php">HİKAYEMİZ</a></li>
+                                        <li><a href="hakkimizda.php">HİKAYEMİZ</a></li>
                                         <li><a href="assets/images/menu/alacati-menu.pdf">MENÜ</a></li>
                                         <li><a href="blog.php">BLOG</a></li>
-                                        <li><a href="gallery.php">GALERİ</a></li>
+                                        <li><a href="galeri.php">GALERİ</a></li>
 
 
-                                        <li><a href="contact.php">İLETİŞİM</a></li>
+                                        <li><a href="iletisim.php">İLETİŞİM</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -237,7 +237,7 @@ $blog_JSON = json_decode($JSON);
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index.php">
+                <a href="/">
                     <!-- <img src="assets/images/logo/mavi-alacati.png" alt="Lawaga"> -->
                 </a>
             </div>
@@ -254,7 +254,7 @@ $blog_JSON = json_decode($JSON);
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-5">HİKAYEMİZ</h4>
                         <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan kahve çekirdeklerinin kokusu, meyve ağaçlarının kokusuyla harmanlandı; Ege’nin kalbine yayıldı.</p>
-                        <a class="site-btn mt-20" href="contact.php">İLETİŞİM</a>
+                        <a class="site-btn mt-20" href="iletisim.php">İLETİŞİM</a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-10">İLETİŞİM</h4>
@@ -287,7 +287,7 @@ $blog_JSON = json_decode($JSON);
     <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index.php">
+                <a href="/">
                     <!-- <img src="assets/images/logo/mavi-alacati.png" alt="logo"> -->
                 </a>
             </div>
@@ -299,7 +299,7 @@ $blog_JSON = json_decode($JSON);
             <div class="side-info__content mb-35">
                 <h4 class="title mb-5">HİKAYEMİZ</h4>
                 <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan kahve çekirdeklerinin kokusu, meyve ağaçlarının kokusuyla harmanlandı; Ege’nin kalbine yayıldı.</p>
-                <a class="site-btn mt-20" href="contact.php">İLETİŞİM</a>
+                <a class="site-btn mt-20" href="iletisim.php">İLETİŞİM</a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-10">İLETİŞİM</h4>

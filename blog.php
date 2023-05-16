@@ -41,12 +41,12 @@
                                     <li><a href="#0"><i class="fal fa-calendar-alt"></i><?= $blog -> blog_date_time ?></a></li>
                                 </ul>
                                 <div class="content mt-10">
-                                    <h2 class="title border-effect mb-10"><a href="blog-details.php?name=<?= $blog -> blog_title ?>"><?= $blog -> blog_title ?></a></h2>
+                                    <h2 class="title border-effect mb-10"><a href="blog-detaylari.php?name=<?= $blog -> blog_link ?>"><?= $blog -> blog_title ?></a></h2>
                                     <p><?= $blog -> blog_short_comment ?>
                                     </p>
                                 </div>
                                 <div class="bottom mt-35 d-flex align-items-center">
-                                    <a href="blog-details.php?name=<?= $blog -> blog_title ?>" class="site-btn">Daha Fazlası</a>
+                                    <a href="blog-detaylari.php?name=<?= $blog -> blog_link ?>" class="site-btn">Daha Fazlası</a>
                                     
                                 </div>
                             </article>
@@ -73,7 +73,7 @@
                                 <h2 class="title">POPÜLER BLOGLAR</h2>
                                 <ul>
                                 <?php foreach ($blog_JSON as $blog ) {?>
-                                   <li class="cat-item"><a href="blog-details.php?name=<?= $blog -> blog_title ?>"><?= $blog -> blog_title ?></a> </li>
+                                   <li class="cat-item"><a href="blog-detaylari.php?name=<?= $blog -> blog_link ?>"><?= $blog -> blog_title ?></a> </li>
                                    <?php  } ?>
                                 
                                

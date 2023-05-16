@@ -62,12 +62,12 @@
                     <div class="footer__menu">
                         <nav>
                             <ul>
-                                <li><a href="index.php">ANASAYFA</a></li>
-                                <li><a href="about.php">HİKAYEMİZ</a></li>
+                                <li><a href="/">ANASAYFA</a></li>
+                                <li><a href="hakkimizda.php">HİKAYEMİZ</a></li>
                                 <li><a href="assets/images/menu/alacati-menu.pdf">MENU</a></li>
                                 <li><a href="blog.php">BLOG</a></li>
-                                <li><a href="gallery.php">GALERİ</a></li>
-                                <li><a href="contact.php">İLETİŞİM</a></li>
+                                <li><a href="galeri.php">GALERİ</a></li>
+                                <li><a href="iletisim.php">İLETİŞİM</a></li>
                             </ul>
                         </nav>
                     </div>

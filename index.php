@@ -18,8 +18,8 @@
                         </h2>
                         <p>Uganda’daki Elgon Yanardağı’nın eteklerinden toplanan kahve çekirdeklerinin kokusu, meyve ağaçlarının kokusuyla harmanlandı; Ege’nin kalbine yayıldı. </p>
                         <div class="btns mt-45 d-flex align-items-center justify-content-start">
-                            <!-- <a href="about.php" class="site-btn site-btn__2">testy Coffee</a> -->
-                            <a href="about.php" class="site-btn">Hikayemiz</a>
+                            <!-- <a href="hakkimizda.php" class="site-btn site-btn__2">testy Coffee</a> -->
+                            <a href="hakkimizda.php" class="site-btn">Hikayemiz</a>
                         </div>
                     </div>
                 </div>
@@ -351,10 +351,10 @@
                        <div class="content content__2">
 
                            <h3 class="blog__title blog__title--2 border-effect">
-                               <a href="blog-details.php?name=<?= $blog_JSON[$i] -> blog_title ?>"><?= $blog_JSON[$i] -> blog_title ?></a>
+                               <a href="blog-detaylari.php?name=<?= $blog_JSON[$i] -> blog_link ?>"><?= $blog_JSON[$i] -> blog_title ?></a>
                            </h3>
                            <div class="btn-wrapper mt-15 d-flex justify-content-between">
-                               <a href="blog-details.php?name=<?= $blog_JSON[$i] -> blog_title ?>" class="read-more read-more__2">Daha Fazlası <i class="fa fa-long-arrow-right"></i></a>
+                               <a href="blog-detaylari.php?name=<?= $blog_JSON[$i] -> blog_link ?>" class="read-more read-more__2">Daha Fazlası <i class="fa fa-long-arrow-right"></i></a>
                            </div>
                        </div>
                    </article>

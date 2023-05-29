@@ -122,7 +122,7 @@
 
     <!-- map -->
     <!-- <div id="contactmap"></div> -->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1601500.5849643906!2d33.945842596624935!3d38.37372156165857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d6025c679e1679%3A0xf9178b7341dc5e49!2sKapadokya!5e0!3m2!1str!2str!4v1681218022266!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147353.0716757816!2d26.19672652428499!3d39.61398544686538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb79c0e4dd0627%3A0x7bd696220c661197!2sLawaga%20Ala%C3%A7at%C4%B1%20Coffee%20%26%20Cocktail%20Bar!5e0!3m2!1str!2str!4v1685355904222!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </main>
 

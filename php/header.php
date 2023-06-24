@@ -86,7 +86,7 @@ $blog_JSON = json_decode($JSON);
                                         <i class="fa fa-book"></i><a href="hakkimizda.php">HİKAYEMİZ</a>
                                     </li>
                                     <li>
-                                        <i class="fa fa-glass"></i><a href="assets/images/menu/alacati-menu.pdf">MENÜ</a>
+                                        <i class="fa fa-glass"></i><a href="qrmenu.php">MENÜ</a>
                                     </li>
 
 
@@ -186,7 +186,7 @@ $blog_JSON = json_decode($JSON);
                                         <li><a href="/">ANASAYFA</a></li>
 
                                         <li><a href="hakkimizda.php">HİKAYEMİZ</a></li>
-                                        <li><a href="assets/images/menu/alacati-menu.pdf">MENÜ</a></li>
+                                        <li><a href="qrmenu.php">MENÜ</a></li>
                                         <li><a href="blog.php">BLOG</a></li>
                                         <li><a href="galeri.php">GALERİ</a></li>
 

@@ -91,7 +91,7 @@
                 </div>
                 <div class="col-lg-6 justify-content-center text-center" style="width:50%;" >
                     <div class="btns  align-items-center ">
-                        <a href="https://www.google.com/maps/search/Temenni+Mh.+Tevfik+Fikret+Cd.+Veli+T%C3%B6ren+Sitesi,+13%2F1,+%C3%9Crg%C3%BCp,+NEV%C5%9EEH%C4%B0R/@38.6333847,34.8987295,17z/data=!3m1!4b1"t target="_blank" class="site-btn" style="background-color: #002c3f;padding:5px 30px;width:90%"> <img style="margin-right: 10px;width:16px" src="assets/images/icons/ft-map-marker.png" alt="">Konum</a>
+                        <a href="https://www.google.com/maps/place/Lawaga+Ala%C3%A7at%C4%B1+Coffee+%26+Cocktail+Bar/@38.3028976,26.3205455,14z/data=!4m10!1m2!2m1!1zTGF3YWdhIEFsYcOnYXTEsSBDb2ZmZWUgJiBDb2NrdGFpbCBCYXIsIEFsYcOnYXTEsSwgMTEwNDQgU29rYWsgTm86Mi9CLCAzNTkzMCDDh2XFn21lL8Swem1pcg!3m6!1s0x14bb79c0e4dd0627:0x7bd696220c661197!8m2!3d38.2850316!4d26.3750188!15sCltMYXdhZ2EgQWxhw6dhdMSxIENvZmZlZSAmIENvY2t0YWlsIEJhciwgQWxhw6dhdMSxLCAxMTA0NCBTb2thayBObzoyL0IsIDM1OTMwIMOHZcWfbWUvxLB6bWlyWlkiV2xhd2FnYSBhbGHDp2F0xLEgY29mZmVlICYgY29ja3RhaWwgYmFyIGFsYcOnYXTEsSAxMTA0NCBzb2thayBubyAyIGIgMzU5MzAgw6dlxZ9tZSBpem1pcpIBBGNhZmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTktiM1EzVERWM1JSQULgAQA!16s%2Fg%2F11s4h7l_hj?entry=ttu"t target="_blank" class="site-btn" style="background-color: #002c3f;padding:5px 30px;width:90%"> <img style="margin-right: 10px;width:16px" src="assets/images/icons/ft-map-marker.png" alt="">Konum</a>
                     </div>
                 </div>
             </div>

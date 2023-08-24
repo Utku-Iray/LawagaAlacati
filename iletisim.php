@@ -77,11 +77,11 @@
                         <div class="row">
                             <div class="col-xl-12">
                                 <div class="contact__form mt-20">
-                                    <form method="POST" action="mail/mail.php" >
+                                    <form method="POST" action="mail/tesekkurler" >
                                         <div class="row">
                                             <div class="col-xl-6 mt-30">
                                                 <div class="form-group">
-                                                    <input type="text" name="patientnamesurname"  placeholder="Adınız :">
+                                                    <input type="text" name="customerNameSurname"  placeholder="Adınız :">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 mt-30">
@@ -91,17 +91,17 @@
                                             </div>
                                             <div class="col-xl-6 mt-30">
                                                 <div class="form-group">
-                                                    <input type="text" name="patientSubject"  placeholder="Konu :">
+                                                    <input type="text" name="customerSubject"  placeholder="Konu :">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 mt-30">
                                                 <div class="form-group">
-                                                    <input type="text" name="patientPhone"  placeholder="Telefon :">
+                                                    <input type="text" name="customerPhone"  placeholder="Telefon :">
                                                 </div>
                                             </div>
                                             <div class="col-xl-12 mt-30">
                                                 <div class="form-group">
-                                                    <textarea name="patientNote"  placeholder="Mesaj :"></textarea>
+                                                    <textarea name="customerNote"  placeholder="Mesaj :"></textarea>
                                                 </div>
                                             </div>
                                             <div class="col-xl-12 mt-20 text-center">

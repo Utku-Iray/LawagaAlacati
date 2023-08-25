@@ -7,7 +7,7 @@ $customerNameSurname = $_POST['customerNameSurname'];
 $customerSubject = $_POST['customerSubject'];
 $customerPhone = $_POST['customerPhone'];
 $customerNote = $_POST['customerNote'];
-$customerMail = $_POST['customerMail'];
+$customerMail = $_POST['mail'];
 $sayfa = $_POST['sayfa'];
 
 
@@ -43,10 +43,10 @@ function mailgonder(){
          "<li style='background-color:#bec6c3;width:200px;padding:10px'>Telefon Numarası: " . $_POST['customerPhone'] . "</li>" .
          "<li style='background-color:#e5e8e7;width:200px;padding:10px'>Konu: " . $_POST['customerSubject']. "</li>" .
          "<li style='background-color:#bec6c3;width:200px;padding:10px'>Not: ". $_POST['customerNote'] . "</li>" .
-         "<li style='background-color:#e5e8e7;width:200px;padding:10px'>Mail adresi: " . $_POST['customerMail']. "</li>" .
+         "<li style='background-color:#e5e8e7;width:200px;padding:10px'>Mail adresi: " . $_POST['mail']. "</li>" .
          "<li style='background-color:#bec6c3;width:200px;padding:10px'>Mail Gelen Sayfa: " . $_POST['sayfa']."</li></ul>";
          $mail->AltBody = strip_tags("mesaj");
-         $mail->AddAddress("utku.iray.99@gmail.com"); 
+         $mail->AddAddress("iletisim@lawagaalacati.com"); 
          return ($mail->Send())?true:false;      
          $mail->ClearAddresses();  
          $mail->ClearAttachments();
